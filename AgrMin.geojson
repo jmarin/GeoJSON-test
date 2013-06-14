@@ -1,9 +1,6 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
+"type": "FeatureCollection",                                                                    
 "features": [
-{ "type": "Feature", "properties": { "MINOP1X020": 1, "COMMODITY": "Magnesium Compounds", "SITE_NAME": "Bullhead City", "COMPANY_NA": "Applied Chemical Magnesias Corp", "STATE_LOCA": "Arizona", "COUNTY": "Mohave", "LATITUDE": 35.132, "LONGITUDE": -114.554, "PLANT_MIN": "M\/P" }, "geometry": { "type": "Point", "coordinates": [ -114.55481030035503, 35.132004636904469 ] } },
 { "type": "Feature", "properties": { "MINOP1X020": 2, "COMMODITY": "Magnesium Compounds", "SITE_NAME": "Chula Vista Plant", "COMPANY_NA": "Western Salt Co", "STATE_LOCA": "California", "COUNTY": "San Diego", "LATITUDE": 32.628, "LONGITUDE": -117.045, "PLANT_MIN": "M\/P" }, "geometry": { "type": "Point", "coordinates": [ -117.0458722366144, 32.628059515734037 ] } },
 { "type": "Feature", "properties": { "MINOP1X020": 3, "COMMODITY": "Magnesium Compounds", "SITE_NAME": "Lewes Plant", "COMPANY_NA": "SPI Pharma Inc", "STATE_LOCA": "Delaware", "COUNTY": "Sussex", "LATITUDE": 38.783, "LONGITUDE": -75.161, "PLANT_MIN": "M\/P" }, "geometry": { "type": "Point", "coordinates": [ -75.160630122282328, 38.783119973308089 ] } },
 { "type": "Feature", "properties": { "MINOP1X020": 4, "COMMODITY": "Magnesium Compounds", "SITE_NAME": "Port St Joe Plant", "COMPANY_NA": "Premier Chemicals LLC", "STATE_LOCA": "Florida", "COUNTY": "Gulf", "LATITUDE": 29.842, "LONGITUDE": -85.267, "PLANT_MIN": "M\/P" }, "geometry": { "type": "Point", "coordinates": [ -85.266921689884043, 29.842213465379132 ] } },
